@@ -4,6 +4,7 @@ import os
 import sys
 
 #Работа
+#Проверка от мастера
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'TestTask.settings')
     try:
